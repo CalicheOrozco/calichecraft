@@ -36,6 +36,7 @@ export const Menu = () => {
         <span>Space to jump</span>
         <span>Click to add cube</span>
         <span>Alt + click to remove</span>
+        <span>1-9 to change texture</span>
       </div>
     </div>
   );
