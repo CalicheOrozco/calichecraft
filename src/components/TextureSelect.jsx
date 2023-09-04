@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import * as images from "../Images/images";
+import * as images from "../images/images";
 
 import { useStore } from "../hooks/useStore.js";
 import { useKeyboard } from "../hooks/useKeyboard";
